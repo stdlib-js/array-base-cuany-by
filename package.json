@@ -39,11 +39,10 @@
   "dependencies": {
     "@stdlib/array-base-arraylike2object": "^0.2.1",
     "@stdlib/array-base-filled": "^0.2.2",
-    "@stdlib/types": "^0.4.1",
+    "@stdlib/types": "^0.4.3",
     "@stdlib/utils-define-nonenumerable-read-only-property": "^0.2.2"
   },
   "devDependencies": {
-    "@stdlib/array-base-cuany-by-package.json": "github:stdlib-js/array-base-cuany-by-package.json#main",
     "@stdlib/array-base-to-accessor-array": "^0.2.2",
     "@stdlib/array-bool": "^0.1.0",
     "@stdlib/array-float64": "^0.2.2",
