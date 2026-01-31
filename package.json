@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/array-base-cuany-by",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Cumulatively test whether at least one element in a provided array passes a test implemented by a predicate function.",
   "license": "Apache-2.0",
   "author": {
@@ -44,7 +44,7 @@
   },
   "devDependencies": {
     "@stdlib/array-base-to-accessor-array": "^0.2.2",
-    "@stdlib/array-bool": "^0.1.0",
+    "@stdlib/array-bool": "^0.1.1",
     "@stdlib/array-float64": "^0.2.2",
     "@stdlib/assert-has-own-property": "^0.2.2",
     "@stdlib/assert-is-array": "^0.2.2",
